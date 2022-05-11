@@ -1,1 +1,7 @@
-[]
+[
+    {
+        "ca": "chill_validation/server_ca.crt",
+        "ca_hosted": "https://steward0.chillvalidation.com/server_ca.crt",
+        "endpoint": "https://steward0.chillvalidation.com:5784"
+    }
+]
